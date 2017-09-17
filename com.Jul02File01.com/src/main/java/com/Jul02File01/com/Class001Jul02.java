@@ -11,7 +11,11 @@ public class Class001Jul02 {
 		
 		System.out.println("Test1");
 		
+<<<<<<< HEAD
 		System.out.println("Oolllllllaaaaaa");
+=======
+		System.out.println("Adding new line" + "Of this");
+>>>>>>> refs/heads/AddingaStatement
 	}
 
 }

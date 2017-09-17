@@ -10,6 +10,8 @@ public class Class001Jul02 {
 		System.out.println("Hi");
 		
 		System.out.println("Test1");
+		
+		System.out.println("Oolllllllaaaaaa");
 	}
 
 }

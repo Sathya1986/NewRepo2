@@ -11,7 +11,7 @@ public class Class001Jul02 {
 		
 		System.out.println("Test1");
 		
-		System.out.println("Adding new ");
+		System.out.println("Adding new line" + "Of this");
 	}
 
 }
